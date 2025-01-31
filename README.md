@@ -1,5 +1,7 @@
 # print("👋 Hi, I’m Sukriti Tiwari") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
+I specialize in Python development and have hands-on experience with various frameworks and tools.
+
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif" />
 
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> </em></p>
@@ -10,7 +12,6 @@
 ---
 
 
-I specialize in Python development and have hands-on experience with various frameworks and tools.
 
 ## 💻 Skills
 
