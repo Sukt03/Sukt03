@@ -6,12 +6,6 @@
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="35vw"/> <em> Design Enthusiast</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> <em> In love with Science, Tech & Handicraft</em></p>
 
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/> <em> Colorful Post-it Notes Lover</em></p>
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-[![GitHub Page Badge](https://img.shields.io/badge/-GitHub_Page-000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/SukritiTiwari)](https://github.com/SukritiTiwari)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sukriti-tiwari3/)](https://www.linkedin.com/in/sukriti-tiwari3/)
-[![Email Badge](https://img.shields.io/badge/-Email-c0392b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiwarisukriti2003@gmail.com)](mailto:tiwarisukriti2003@gmail.com)
 <em> ~ Projects down here ↓ ~ </em><img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/>
 
 
