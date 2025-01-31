@@ -4,8 +4,8 @@ I specialize in Python development and have hands-on experience with various fra
 
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif" />
 
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="20vw"/> </em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="20vw"/> <em> In love with Science, Tech & Handicraft</em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="20vw"/> </em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="20vw"/> <em> In love with Science, Tech & Handicraft</em></p>
 
 
 
