@@ -4,7 +4,7 @@
 
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> </em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="25vw"/> <em> In love with Science, Tech & Handicraft</em></p>
-<img src="https://github.com/anathayna/anathayna/blob/master/assets/salt.gif?raw=1" width="55vw"/>
+
 
 
 ---
