@@ -23,16 +23,9 @@ I specialize in Python development and have hands-on experience with various fra
 
 ## 🏆 Achievements & Extra-Curricular
 
-- **Letter of Appreciation | Student Council, KMIT**  
-  Recognized for exceptional work ethic in 2024.
-
 - **Head of Organizing Committee | Student Council**  
   *2023 – 2024*  
   Led the coordination and execution of college events, including hackathons with over 4,000 participants. Secured sponsorships and collaborated with management and sponsors to ensure financial success.
-
-- **Core Member | Vachan Speakers Club and Mentor**  
-  *2020*  
-  Active anchor, public speaker, and mentor. Facilitated instruction and mentorship, aiding individuals in refining their public speaking skills, overcoming stage fright, and mastering effective diction techniques.
 
 - **Runner Up | Smart India Hackathon (Internal-KMIT)**  
   *2024*  
@@ -42,8 +35,6 @@ I specialize in Python development and have hands-on experience with various fra
   *2024*  
   Designed posters, logos, and edited videos for social media engagement.
 
-- **CBSE Board Centum in Computer Science**  
-  *2018*
 
 ## 📫 Connect with Me
 
