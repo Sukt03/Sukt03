@@ -1,7 +1,7 @@
 #  Hi, I’m Sukriti Tiwari <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 I specialize in Python development and have hands-on experience with various frameworks and tools.
-<<em> In love with Science, Tech & and every hobbie thing you can think of </em></p>
+<p><em> In love with Science, Tech & and every hobbie thing you can think of </em></p>
 
 
 
